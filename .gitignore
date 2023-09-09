@@ -1,0 +1,6 @@
+debian/mauna-info-release/
+debian/.debhelper/
+debian/*.substvars
+debian/debhelper-build-stamp
+debian/files
+.pc/

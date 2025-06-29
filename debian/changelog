@@ -1,3 +1,10 @@
+mauna-info-release (2025.06.29) mauna; urgency=medium
+
+  * New upstream release
+  * Add Mauna 25 Polaris version
+
+ -- Mauna Linux <dev@maunalinux.top>  Sun, 29 Jun 2025 18:04:11 -0300
+
 mauna-info-release (2023.11.06) mauna; urgency=medium
 
   * New upstream version
